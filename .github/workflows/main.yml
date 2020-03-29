@@ -30,4 +30,4 @@ jobs:
       run: |
         stack build
         stack test
-        stack instal
+        stack install
